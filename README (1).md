@@ -1,3 +1,5 @@
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 # Finance Tracker 📋
 
@@ -44,4 +46,10 @@ Beginner ➡️ Advanced
 * Implement a database to persist user data. This addition will significantly improve the application's utility by allowing users to maintain their finance records across sessions.
 * Migrate the application to a web-based platform using frameworks like Django or Flask. This shift would increase the accessibility of the application and provide opportunities to explore web development principles and practices.
 
+## *Author Name* 👩🏻‍💻
+
+**Hina Ota**
+
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/otahina)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/otahina?tab=repositories)
 
